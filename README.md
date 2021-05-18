@@ -20,10 +20,10 @@
 - Cadastrar Pessoa com o Mesmo Telefone
 
 ## Como executar
-Para executar recomenda-se utilizar IDE Eclipse, é necessario Java 8.  
-Clonar no projeto no github "https://github.com/kaldsonandre/challengerBrasilPrev".
-Instalar as dependências com mvn clean install
-Executar as classes IniciarTesteInclusao.java e ConsultarTesteInclusao.java, nessa ordem. 
+- Para executar recomenda-se utilizar IDE Eclipse, é necessario Java 8.  
+- Clonar no projeto no github "https://github.com/kaldsonandre/challengerBrasilPrev".
+- Instalar as dependências com mvn clean install
+- Executar as classes IniciarTesteInclusao.java e ConsultarTesteInclusao.java, nessa ordem. 
 
 
 
